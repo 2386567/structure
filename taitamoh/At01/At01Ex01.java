@@ -123,7 +123,7 @@ public class At01Ex01 {
 	public static float moyenne(int nb1, int nb2, int nb3) {
 		// Option 1 : Calcul moyenne
 		float moyenne;
-		moyenne = (nb1 + nb2 + nb3) / 3;
+		moyenne = (nb1 + nb2 + nb3) / 3.0f;
 		return moyenne;
 	}
 
